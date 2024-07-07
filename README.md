@@ -1,5 +1,8 @@
 # Using the Bird Watching App
 
+Watch the demo here:
+https://github.com/richard-dao/bird-sightings-app/blob/main/Bird-Sighting-App-Demo.mp4
+
 Welcome to the Bird Watching App! This guide will help you navigate and utilize the app's various features, inspired by [ebird.org](https://ebird.org). The app is designed to provide a seamless experience for bird enthusiasts, offering tools for viewing bird densities, submitting checklists, exploring birding locations, and more.
 
 The app is organized into several main pages:
